@@ -1,4 +1,4 @@
-# Higher or Lower Instagram Challenge
+# Higher or Lower game!
 
 Welcome to the Higher or Lower Instagram Challenge! This Python program is a simple game where you'll be presented with two Instagram accounts, and your goal is to guess which account has more followers. Let's see how well you know your favorite influencers!
 
